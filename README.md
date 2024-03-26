@@ -1,5 +1,5 @@
 <h1 align="center">
-    ### I'm Abhishek Kumar Mishra
+    I'm Abhishek Kumar Mishra
 </h1>
 <h2 align ="center">💻  I’m currently learning Data Science<br>💬 Ask me about  Machine Learning<br>⚡ Fun fact AI is fun</h2>
 <img align="right" height="250" src="[[https://miro.medium.com/v2/resize:fit:828/1*bhFifratH9DjKqMBTeQG5A.gif](https://images.app.goo.gl/Q6RkDEzFnQnQAtbe9)](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftigerabrodi.blog%2Fwhy-learn-to-code&psig=AOvVaw33S2U2O4k3AhY9ezdBiVJC&ust=1709917755338000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKD84ZTS4oQDFQAAAAAdAAAAABAE)"  />
