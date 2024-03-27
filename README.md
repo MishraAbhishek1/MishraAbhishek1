@@ -5,7 +5,6 @@
 <img align="right" height="250" src="[[https://miro.medium.com/v2/resize:fit:828/1*bhFifratH9DjKqMBTeQG5A.gif](https://images.app.goo.gl/Q6RkDEzFnQnQAtbe9)](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftigerabrodi.blog%2Fwhy-learn-to-code&psig=AOvVaw33S2U2O4k3AhY9ezdBiVJC&ust=1709917755338000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKD84ZTS4oQDFQAAAAAdAAAAABAE)"  />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MishraAbhishek1&label=Profile%20views&color=0e75b6&style=flat" alt="Abhishek" /> </p>
-![MasterHead]([https://imarticus.org/blog/what-is-differential-deep-learning/](https://imarticus.org/blog/wp-content/uploads/2020/06/bh.gif))
 #<h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/abhishek-kumar-mishra-394569224?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="SemicolonML" height="30" width="40" /></a>
 <!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/DhanrajVerma)
