@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MishraAbhishek1&label=Profile%20views&color=0e75b6&style=flat" alt="Abhishek" /> </p>
 ![MasterHead]([https://imarticus.org/blog/what-is-differential-deep-learning/](https://imarticus.org/blog/wp-content/uploads/2020/06/bh.gif))
-# <h3 align="left">Connect with me:</h3>
+#<h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/abhishek-kumar-mishra-394569224?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="SemicolonML" height="30" width="40" /></a>
 <!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/DhanrajVerma)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/SemicolonML)-->
