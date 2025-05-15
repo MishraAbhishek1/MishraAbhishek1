@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Abhishek Kumar Mishra 👋</h1>
 
-<h2 align="center">💻 Python | Django | DRF | FastAPI | Deep Learning</h2>
+<h2 align="center">💻 Python | Django | DRF | FastAPI | Machine Learning | Deep Learning | PostgresSQL | </h2>
 
 <img align="right" height="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
